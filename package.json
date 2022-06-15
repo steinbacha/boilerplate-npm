@@ -2,11 +2,14 @@
 	"author": "Adam Steinbach",
 	"name": "fcc-learn-npm-package-json",
 	"description": "my first public npm project",
-	"keywords": ["stunning", "gorgeous", "beautiful"],
+	"keywords": [
+		"stunning",
+		"gorgeous",
+		"beautiful"
+	],
 	"dependencies": {
 		"express": "^4.18.1"
 	},
-	"author": "Adam Steinbach",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
