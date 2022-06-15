@@ -6,7 +6,6 @@
 	"dependencies": {
 		"express": "^4.18.1"
 	},
-	"author": "Adam Steinbach",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
